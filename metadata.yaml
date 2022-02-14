@@ -1,0 +1,44 @@
+_repo: The-Caddo-Indians-of-Louisiana_67235
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Gregory, Hiram F.
+    aliases:
+    - Gregory, Pete
+    - Gregory, H. F. (Hiram F.)
+    birthdate: 1937
+    gutenberg_agent_id: '54167'
+    url: http://www.gutenberg.org/2009/agents/54167
+  - agent_name: Webb, Clarence H.
+    alias: Webb, Clarence Hungerford
+    birthdate: 1902
+    deathdate: 1999
+    gutenberg_agent_id: '53413'
+    url: http://www.gutenberg.org/2009/agents/53413
+    wikipedia: https://en.wikipedia.org/wiki/Clarence_Hungerford_Webb
+description: ''
+gutenberg_issued: '2022-01-23'
+identifiers:
+  gutenberg: '67235'
+  lccn: '79624474'
+language: en
+pgterms:marc905: 20191203162532webb
+pgterms:marc906: '1978'
+pgterms:marc907: US
+production_note: WebRover, Stephen Hutcheson and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: United States :Louisiana Department of Culture, Recreation, and
+  Tourism,1978.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Anthropological study (Louisiana Archaeological Survey and Antiquities
+  Commission); no. 2.
+subjects:
+- !lcsh 'Caddoan Indians -- History'
+- !lcsh 'Louisiana -- Antiquities'
+- !lcsh 'Caddoan Indians -- Antiquities'
+- !lcc 'E011'
+- GITenberg
+title: The Caddo Indians of Louisiana
+url: http://www.gutenberg.org/ebooks/67235
