@@ -1,5 +1,8 @@
 _repo: The-Caddo-Indians-of-Louisiana_67235
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67235-h/images/cover-illus.jpg
 creator:
   authors:
   - agent_name: Gregory, Hiram F.
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53413
     wikipedia: https://en.wikipedia.org/wiki/Clarence_Hungerford_Webb
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67235#The-Caddo-Indians-of-Louisiana
 gutenberg_issued: '2022-01-23'
 identifiers:
   gutenberg: '67235'
